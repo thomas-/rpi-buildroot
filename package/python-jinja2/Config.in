@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PYTHON_JINJA2
+	bool "python-jinja2"
+	help
+	  Jinja2 templating engine.

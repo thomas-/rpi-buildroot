@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PYTHON_WORKZEUG
+	bool "python-werkzeug"
+	help
+	  Flask dependency.
